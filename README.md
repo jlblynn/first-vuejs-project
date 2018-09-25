@@ -19,3 +19,6 @@ npm run build
 ```
 npm run lint
 ```
+
+This a simple Vue.js project with a dynamic list. 
+It has simple routing with a root, about, and a name route that displays whatever is in entered into the url.
